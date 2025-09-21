@@ -51,13 +51,13 @@ The server listens on port 8080 by default.
 ```
 
 3. Enter a unique username when prompted.
-4. 
-5. Use chat commands or send messages:
+
+4. Use chat commands or send messages:
    - `/list` to see online users.
    - `/pm <username> <message>` to send private messages.
    - `/quit` to disconnect.
    - `/help` to see all commands.
-  
+
      
 ## Example
 
